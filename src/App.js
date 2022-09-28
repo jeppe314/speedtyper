@@ -1,5 +1,5 @@
 import "./App.css"
-import { React, useState, useEffect, useRef } from "react"
+import { React } from "react"
 import { useWordGame } from "./useWordGame"
 
 function App() {
